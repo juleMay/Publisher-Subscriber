@@ -1,0 +1,4 @@
+#ignorar carpeta target
+target/
+*.jar
+

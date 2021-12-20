@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Microkernel-colombia-plugin" />
+        <module name="Microkernel-rabbit-plugin" />
+        <module name="DeliveryProducts" />
+        <module name="DeliveryLog" />
+        <module name="Microkernel-uruguay-plugin" />
+        <module name="Microkernel-common" />
+        <module name="Microkernel-core" />
+        <module name="Microkernel-chile-plugin" />
+        <module name="Microkernel-mexico-plugin" />
+        <module name="Microkernel-peru-plugin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DeliveryProducts" target="1.8" />
+      <module name="DeliveryLog" target="1.8" />
+      <module name="Microkernel-chile-plugin" target="1.8" />
+      <module name="Microkernel-colombia-plugin" target="1.5" />
+      <module name="Microkernel-common" target="1.5" />
+      <module name="Microkernel-core" target="1.8" />
+      <module name="Microkernel-mexico-plugin" target="1.5" />
+      <module name="Microkernel-peru-plugin" target="1.8" />
+      <module name="Microkernel-rabbit-plugin" target="1.8" />
+      <module name="Microkernel-uruguay-plugin" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

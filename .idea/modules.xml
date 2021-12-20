@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DeliveryProducts/DeliveryProducts.iml" filepath="$PROJECT_DIR$/DeliveryProducts/DeliveryProducts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeliveryLog/DeliveryLog.iml" filepath="$PROJECT_DIR$/DeliveryLog/DeliveryLog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Microkernel-chile-plugin/Microkernel-chile-plugin.iml" filepath="$PROJECT_DIR$/Microkernel-chile-plugin/Microkernel-chile-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Microkernel-colombia-plugin/Microkernel-colombia-plugin.iml" filepath="$PROJECT_DIR$/Microkernel-colombia-plugin/Microkernel-colombia-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Microkernel-common/Microkernel-common.iml" filepath="$PROJECT_DIR$/Microkernel-common/Microkernel-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Microkernel-core/Microkernel-core.iml" filepath="$PROJECT_DIR$/Microkernel-core/Microkernel-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Microkernel-mexico-plugin/Microkernel-mexico-plugin.iml" filepath="$PROJECT_DIR$/Microkernel-mexico-plugin/Microkernel-mexico-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Microkernel-peru-plugin/Microkernel-peru-plugin.iml" filepath="$PROJECT_DIR$/Microkernel-peru-plugin/Microkernel-peru-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Microkernel-rabbit-plugin/Microkernel-rabbit-plugin.iml" filepath="$PROJECT_DIR$/Microkernel-rabbit-plugin/Microkernel-rabbit-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Microkernel-uruguay-plugin/Microkernel-uruguay-plugin.iml" filepath="$PROJECT_DIR$/Microkernel-uruguay-plugin/Microkernel-uruguay-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Publisher-Subscriber.iml" filepath="$PROJECT_DIR$/.idea/Publisher-Subscriber.iml" />
+    </modules>
+  </component>
+</project>
